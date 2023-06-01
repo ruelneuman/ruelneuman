@@ -1,5 +1,5 @@
 ## Hi there, I'm Ruel 👋
-I'm a full stack developer and former mechanical engineer.
+I'm a full stack developer.
 
 ### 💻Tech Stack
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
